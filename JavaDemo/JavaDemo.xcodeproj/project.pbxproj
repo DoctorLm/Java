@@ -32,6 +32,7 @@
 		6DCAAFD92430266A00B33444 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = NO;
 				LastUpgradeCheck = 1140;
 			};
 			buildConfigurationList = 6DCAAFDC2430266A00B33444 /* Build configuration list for PBXProject "JavaDemo" */;
